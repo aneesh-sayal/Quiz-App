@@ -1,15 +1,18 @@
-# quiz_application
+## Quiz Application
 
-A new Flutter project.
+This Flutter application is a quiz app based on movies. It consists of multiple screens, including a start screen, several quiz screens, and a final screen to display the result.
 
-## Getting Started
+## Usage
 
-This project is a starting point for a Flutter application.
+Launch the app on your device or emulator.
+On the start screen, tap the "Begin Quiz" button to start the movie quiz.
+Answer the questions by selecting the correct option.
+After answering all the questions, the app will display your final score on the result screen.
+Feel free to customize and enhance the app according to your requirements. Happy quizzing!
 
-A few resources to get you started if this is your first Flutter project:
+## Contributing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
